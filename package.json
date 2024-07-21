@@ -1,0 +1,19 @@
+{
+    "name": "chatgpt-teams-bot",
+    "version": "0.0.1",
+    "description": "",
+    "author": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "@microsoft/teamsfx-cli": "1.*"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "@microsoft/adaptivecards-tools": "^1.3.3",
+        "botbuilder": "^4.22.2",
+        "chatgpt": "^5.2.5",
+        "openai": "^4.44.0"
+    }
+}
